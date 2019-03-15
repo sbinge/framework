@@ -337,7 +337,7 @@ The [`@dojo/themes`](https://github.com/dojo/themes) package provides a collecti
 2. Import the theme CSS into your project's `main.css`:
 
    ```css
-   @import '~@dojo/themes/dojo/index.css
+   @import '~@dojo/themes/dojo/index.css';
    ```
 
 3. Import the theme typescript module and use it [as per any other theme](#making-themeable-applications):
